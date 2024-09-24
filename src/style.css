@@ -1,0 +1,28 @@
+.healthcode-widget {
+    display: flex;
+    margin: auto;
+}
+
+.input-panel {
+    /* display: flex; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+.input-widget {
+    margin: 4px;
+    
+}
+.show-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.top-panel {
+    display: flex;
+}
+.name-id-widget {
+    display: flex;
+    align-items: center;
+}
